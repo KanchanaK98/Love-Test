@@ -24,7 +24,7 @@ const CONFIRMATION_STEPS = [
     buttons: ["You're still worth it", "Still no reasons ❤️"],
   },
   {
-    text: "Even when I steal your food?",
+    text: "Even when i steal your pain brush?",
     subtext: "",
     buttons: ["Okay that one hurts 😤", "Even then 😔"],
     showConfetti: true,
