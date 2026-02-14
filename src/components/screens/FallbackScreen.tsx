@@ -54,17 +54,17 @@ const FallbackScreen: React.FC<FallbackScreenProps> = ({ onContinue }) => {
         <div className="text-5xl mb-6">😅</div>
         
         <h1 className="font-display text-4xl md:text-5xl text-foreground mb-4 drop-shadow-sm">
-          Hey hey…
+          Hey Modi, wait…
         </h1>
         
         <p className="font-body text-xl text-foreground/80 mb-2 font-medium">
-          I know I can be a lot sometimes.
+          I know I'm not perfect, Modi.
         </p>
         
         <p className="text-muted-foreground text-base mb-6 font-body italic">
-          But I wasn't trying to pressure you…
+          I mess up, I annoy you, I steal your food…
           <br />
-          I just needed to know where we stand.
+          But none of those are real reasons, right, Modi?
         </p>
 
         <p className="text-sm text-muted-foreground mb-8 italic">
